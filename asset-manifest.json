@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Braves/static/css/main.f11c27c5.chunk.css",
+    "main.js": "/Braves/static/js/main.9e45ac39.chunk.js",
+    "main.js.map": "/Braves/static/js/main.9e45ac39.chunk.js.map",
+    "runtime-main.js": "/Braves/static/js/runtime-main.f4ccd0cb.js",
+    "runtime-main.js.map": "/Braves/static/js/runtime-main.f4ccd0cb.js.map",
+    "static/js/2.8fde7082.chunk.js": "/Braves/static/js/2.8fde7082.chunk.js",
+    "static/js/2.8fde7082.chunk.js.map": "/Braves/static/js/2.8fde7082.chunk.js.map",
+    "index.html": "/Braves/index.html",
+    "precache-manifest.7a75d0f359d5a6290fcc5131a2fe9c4d.js": "/Braves/precache-manifest.7a75d0f359d5a6290fcc5131a2fe9c4d.js",
+    "service-worker.js": "/Braves/service-worker.js",
+    "static/css/main.f11c27c5.chunk.css.map": "/Braves/static/css/main.f11c27c5.chunk.css.map",
+    "static/js/2.8fde7082.chunk.js.LICENSE.txt": "/Braves/static/js/2.8fde7082.chunk.js.LICENSE.txt",
+    "static/media/github-logo.svg": "/Braves/static/media/github-logo.1f673426.svg",
+    "static/media/tomahawk.svg": "/Braves/static/media/tomahawk.f0761d7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ccd0cb.js",
+    "static/js/2.8fde7082.chunk.js",
+    "static/css/main.f11c27c5.chunk.css",
+    "static/js/main.9e45ac39.chunk.js"
+  ]
+}
