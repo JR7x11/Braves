@@ -1,0 +1,10 @@
+.footer {
+    background-color: #00447c !important;
+    text-align: center;
+    border-top: 5px #eeb111  solid;
+    padding: 1.5rem;
+}
+
+.footer img {
+    height: 2rem;;
+}
